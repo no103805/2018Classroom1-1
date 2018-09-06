@@ -41,7 +41,7 @@ public class 실습04 {
 				i++;
 			} while(i<=10);
 		}
-		
+        		
 
 	}
 
